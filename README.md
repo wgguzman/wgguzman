@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<!--
-**wgguzman/wgguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Ingeniero en sistemas con conocimiento en todo el ciclo de vida del desarrollo del software. Competente en la gestión, integración y análisis de datos e inteligencia de negocio. Con habilidades para la dirección y gestión de equipos en proyectos informáticos, control y seguimiento de actividades y de negociación entre otras.**
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=wgguzman)
+
+<!-- **wgguzman/wgguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
