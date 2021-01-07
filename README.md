@@ -1,4 +1,4 @@
-### Saludos 👋, soy [Walter Guzmán Sánchez](https://github.com/wgguzman/)
+### Saludos 👋, soy [Walter Guzmán](https://github.com/wgguzman/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walterguzmansanchez/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wgguzman)
@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Hitocr)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=wgguzman.wgguzman&style=flat-square&color=0088cc) -->
 
-Soy ingeniero en sistemas informáticos🎓, fullstak developer. Apasionadopor el desarrollo de software, principalmente por el Backend, gestión y administración de bases de datos. :man_technologist:. Me gusta explorar nuevas tecnologías y utilizarlas para resolver problemas del diario vivir✨.  🤓.
+Soy ingeniero en sistemas informáticos🎓, fullstak developer. Apasionadopor el desarrollo de software, principalmente por el Backend. También cuento con experiencia para gestión y administración de bases de datos y de proyectos informáticos :man_technologist:. Me gusta explorar nuevas tecnologías y utilizarlas para resolver problemas del diario vivir✨.  🤓.
 <!--
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <!--
@@ -19,15 +19,14 @@ Soy ingeniero en sistemas informáticos🎓, fullstak developer. Apasionadopor e
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-<!--
-### Languages and Tools:
-<!--
+-->
+<b>Languages and Tools:<b>
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
