@@ -8,6 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wgguzman)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25CA64?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/50687812233/?text=GitHub)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Hitocr)
+[![Telegram Badge](https://img.shields.io/badge/-Curriculum-blue?style=flat-square&logo=Adobe&logoColor=white)](https://t.me/Hitocr)
 
 <br> 📦 <b> Algunos de los lenguajes de programación que utilizo son:<b>
 
@@ -26,3 +27,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&langs_count=8&hide_border=true&hide_title=true&locale=es&layout=compact"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true"/>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
