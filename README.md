@@ -23,10 +23,8 @@
 
 <br> ⚡ <b> Estadísticas y Lenguajes en Github<b>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&show_icons=true&hide_border=true&layout=compact&count_private=true&hide_title=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&locale=es&hide_title=true"/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=wgguzman.wgguzman&style=flat-square&color=0088cc)
