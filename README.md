@@ -24,7 +24,5 @@
 <br> ⚡ <b> Estadísticas y Lenguajes en Github<b>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&show_icons=true&hide_border=true&layout=compact&count_private=true&hide_title=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&langs_count=8&hide_border=true&hide_title=true&locale=es&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true"/>
