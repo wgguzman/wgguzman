@@ -8,7 +8,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wgguzman)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25CA64?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/50687812233/?text=GitHub)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Hitocr)
-[![Telegram Badge](https://img.shields.io/badge/-Curriculum-blue?style=flat-square&logo=Adobe&logoColor=white)](https://t.me/Hitocr)
+[![Curriculum_es Badge](https://img.shields.io/badge/-Curriculum(es)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_ES_Walter_Guzman_Sanchez.pdf)
+[![Curriculum_en_Badge](https://img.shields.io/badge/-Curriculum(en)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_EN_Walter_Guzman_Sanchez.pdf)
 
 <br> 📦 <b> Algunos de los lenguajes de programación que utilizo son:<b>
 
