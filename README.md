@@ -1,8 +1,9 @@
-### 👋 Saludos, soy [Walter Guzmán Sánchez](https://github.com/wgguzman/)
+### 👋 Saludos
+
 🎓 Soy ingeniero en sistemas informáticos.
-<br> 🖖🏼 Fullstak developer, apasionado por el desarrollo de software, principalmente por el Backend, la gestión y administración de bases de datos.
-<br>👨🏼‍💻 Cuento con experiencia para la administración de proyectos informáticos. 
-<br>✨ Me gusta explorar nuevas tecnologías y utilizarlas para resolver problemas del diario vivir.
+<br><br> 🖖🏼 Fullstak developer, apasionado por el desarrollo de software, principalmente por el Backend, la gestión y administración de bases de datos.
+<br><br>👨🏼‍💻 Cuento con experiencia para la administración de proyectos informáticos. 
+<br><br>✨ Me gusta explorar nuevas tecnologías y utilizarlas para resolver problemas del diario vivir.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walterguzmansanchez/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wgguzman)
