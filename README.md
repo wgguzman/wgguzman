@@ -12,17 +12,21 @@
 [![Curriculum_es Badge](https://img.shields.io/badge/-Curriculum(es)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_ES_Walter_Guzman_Sanchez.pdf)
 [![Curriculum_en_Badge](https://img.shields.io/badge/-Curriculum(en)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_EN_Walter_Guzman_Sanchez.pdf)
 
-<br> 📦 <b> Algunos de los lenguajes de programación que utilizo son:<b>
+<br> 📦 <b> Algunos lenguajes y herramientas que utilizo:<b>
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://miro.medium.com/max/364/1*NhpIIUL7AFgKKn30gKoDUw.png" alt="C#"></code>
-<code><img height="27" src="https://docs.microsoft.com/es-es/dotnet/images/hub/netframework.svg" alt=".NET"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://www.flaticon.es/svg/vstatic/svg/25/25231.svg?token=exp=1613490856~hmac=a14ef7875d644cca7c9294c647908c47" alt="github"></code>
-<code><img height="27" src="https://as1.ftcdn.net/jpg/03/55/10/06/500_F_355100685_obaksfnrHrM3y1HHg385W2hyMIVNqVOU.jpg" alt="web"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/oracle.jpg" alt="Oracle"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/sql.png" alt="SQL"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/csharp.png" alt="C#"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/net.svg" alt=".NET"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/angular.png" alt="Angular"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/javascript.png" alt="Javascript"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/nodejs.png" alt="Nodejs"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/git-original.svg" alt="gGt"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/github.svg" alt="Github"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/web.jpg" alt="Web"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/visualstudio.png" alt="Visual Studio"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/ssrs.png" alt="Reporting Services"></code>
+<code><img height="27" src="https://github.com/wgguzman/wgguzman/blob/main/images/ssis.png" alt="Integration Serivices"></code>
 
 <br> ⚡ <b> Estadísticas y Lenguajes en Github<b>
 
@@ -30,4 +34,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&langs_count=8&hide_border=true&hide_title=true&locale=es&layout=compact"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true"/>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://github.com/wgguzman/wgguzman/blob/main/images/work.gif)
