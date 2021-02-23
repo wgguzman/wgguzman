@@ -9,8 +9,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wgguzman)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25CA64?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/50687812233/?text=GitHub)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Hitocr)
-[![Curriculum_es Badge](https://img.shields.io/badge/-Curriculum(es)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_ES_Walter_Guzman_Sanchez.pdf)
-[![Curriculum_en_Badge](https://img.shields.io/badge/-Curriculum(en)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/files/blob/main/2021_CV_EN_Walter_Guzman_Sanchez.pdf)
+[![Curriculum_es Badge](https://img.shields.io/badge/-Curriculum(es)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/wgguzman/blob/main/cv/2021_CV_ES_Walter_Guzman_Sanchez.pdf)
+[![Curriculum_en_Badge](https://img.shields.io/badge/-Curriculum(en)-blue?style=flat-square&logo=Adobe&logoColor=white)](https://github.com/wgguzman/wgguzman/blob/main/cv/2021_CV_EN_Walter_Guzman_Sanchez.pdf)
 
 <br> 📦 <b> Algunos lenguajes y herramientas que utilizo:<b>
 
@@ -31,7 +31,7 @@
 <br> ⚡ <b> Estadísticas y Lenguajes en Github<b>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&langs_count=8&hide_border=true&hide_title=true&locale=es&layout=compact"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wgguzman&hide_border=true&locale=es&hide_title=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&hide_border=true&hide_title=true&locale=es&layout=compact"/>
+<br>
 
 ![](https://github.com/wgguzman/wgguzman/blob/main/images/work.gif)
