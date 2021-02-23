@@ -32,6 +32,5 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wgguzman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=es&hide_title=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wgguzman&hide_border=true&hide_title=true&locale=es&layout=compact"/>
-<br>
 
 ![](https://github.com/wgguzman/wgguzman/blob/main/images/work.gif)
