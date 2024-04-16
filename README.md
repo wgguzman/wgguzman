@@ -3,7 +3,7 @@
 <br>• Full Stakc Developer, passionate about software development, mainly for Backend, database management and administration.
 <br>• I have experience in managing IT projects.
 <br>• I like to explore new technologies and use them to solve everyday problems.
-<br>• I'm software and IT solutions architect, with 14+ years of experience in IT project management. Proficient in data analysis and business intelligence, with skills for managing information technology teams, policy administration, budget control and integration of various technological architectures.
+<br>• I'm software and IT solutions architect, with 15+ years of experience in IT project management. Proficient in data analysis and business intelligence, with skills for managing information technology teams, policy administration, budget control and integration of various technological architectures.
 
 ## 📧 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walterguzmansanchez/)
